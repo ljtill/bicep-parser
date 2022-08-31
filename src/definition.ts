@@ -1,4 +1,4 @@
-export interface ResourceDefinitions {
+export interface Definitions {
     id: string
     $schema: string
     title: string
